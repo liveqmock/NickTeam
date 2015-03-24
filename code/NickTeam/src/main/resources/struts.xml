@@ -50,10 +50,6 @@
 	<!-- struts文件载入 开始 -->
 
 	<include file="struts/struts-router.xml"></include>
-	<include file="struts/struts-user.xml"></include>
-	<include file="struts/struts-project.xml"></include>
-	<include file="struts/struts-finance.xml"></include>
-	<include file="struts/struts-share.xml"></include>
 
 	<!-- struts文件载入 结束 -->
 

@@ -3,21 +3,8 @@
 <struts>
 	<!-- 注意此处的包需要继承basePackage,namespace要注意 -->
 	<package name="router" extends="basePackage" namespace="/router">
-		<action name="*" class="com.wuya.studentweb.action.RouterAction"
+		<action name="*" class="com.nick.team.action.RouterAction"
 			method="{1}">
-			<result name="LOGIN">/WEB-INF/login.jsp</result>
-			<result name="STUDENT_INDEX">/WEB-INF/student/index.jsp</result>
-			<result name="STUDENT_INFO">/WEB-INF/student/information.jsp</result>
-			<result name="SIGN_UP">/WEB-INF/signup.jsp</result>
-			<result name="PROJECT_APPLY">/WEB-INF/student/project_apply.jsp</result>
-			<result name="MY_PROJECT_ORDER">/WEB-INF/student/my_project_order.jsp</result>
-			<result name="MY_PROJECT_ORDER_DETAIL">/WEB-INF/student/my_project_order_detail.jsp</result>
-			<result name="MY_FINANCE">/WEB-INF/student/my_finance.jsp</result>
-			<result name="RECHARGE_1">/WEB-INF/student/recharge_1.jsp</result>
-			<result name="RECHARGE_2">/WEB-INF/student/recharge_2.jsp</result>
-			<result name="FINISH_RECHARGE">/WEB-INF/student/recharge_3.jsp</result>
-			<result name="CERTIFICATE_IMAGE_MANAGER">/WEB-INF/student/certificate_image_manager.jsp</result>
-			<result name="WITHDRAW">/WEB-INF/student/withdraw.jsp</result>
 		</action>
 	</package>
 </struts>    

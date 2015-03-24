@@ -22,7 +22,7 @@
 	</bean>
 
 	<!-- 启用spring注解功能 -->
-	<context:component-scan base-package="com.wuya"></context:component-scan>
+	<context:component-scan base-package="com.nick"></context:component-scan>
 
 	<!-- C3P0连接池配置 -->
 	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
@@ -46,7 +46,7 @@
 		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
 		<!-- 自动扫描指定位置下的实体文件进行映射 -->
-		<property name="packagesToScan" value="com.wuya.backend.po" />
+		<property name="packagesToScan" value="com.nick.backend.po" />
 		<property name="hibernateProperties">
 			<props>
 				<prop key="hibernate.hbm2ddl.auto">update</prop>
@@ -84,13 +84,8 @@
 	<!-- 配置参与事务的类 -->
 	<aop:config>
 		<aop:pointcut id="serviceMethod"
-			expression="execution(* com.wuya.backend.service.*.*(..))" />
+			expression="execution(* com.nick.backend.service.*.*(..))" />
 		<aop:advisor pointcut-ref="serviceMethod" advice-ref="transactionAdvice" />
-	</aop:config>
-	<aop:config>
-		<aop:pointcut id="daoMethod"
-			expression="execution(* com.wuya.backend.dao.*.*(..))" />
-		<aop:advisor pointcut-ref="daoMethod" advice-ref="transactionAdvice" />
 	</aop:config>
 
 </beans>
