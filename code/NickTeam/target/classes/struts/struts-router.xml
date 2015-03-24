@@ -5,6 +5,7 @@
 	<package name="router" extends="basePackage" namespace="/router">
 		<action name="*" class="com.nick.team.action.RouterAction"
 			method="{1}">
+			<result name="LOGIN">/WEB-INF/login.jsp</result>
 		</action>
 	</package>
 </struts>    
