@@ -17,15 +17,15 @@
 	</listener>
 	
 	<!-- 登录状态检查过滤器 -->
-	<filter>
+	<!-- <filter>
 		<filter-name>LoginStatusFilter</filter-name>
 		<filter-class>com.wuya.studentweb.filter.LoginStatusFilter</filter-class>
-	</filter>
+	</filter> -->
 	<!-- 登录状态过滤器拦截所有请求 -->
-	<filter-mapping>
+	<!-- <filter-mapping>
 		<filter-name>LoginStatusFilter</filter-name>
 		<url-pattern>*.action</url-pattern>
-	</filter-mapping>
+	</filter-mapping> -->
 
 	<!-- Struts2 过滤器 -->
 	<filter>
