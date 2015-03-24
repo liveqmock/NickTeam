@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/WuYa/!svn/ver/191/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl
+END
+ProjectInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WuYa/!svn/ver/185/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl/ProjectInfoServiceImpl.java
+END
+FinanceInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WuYa/!svn/ver/184/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl/FinanceInfoServiceImpl.java
+END
+UserInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/WuYa/!svn/ver/191/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl/UserInfoServiceImpl.java
+END
+ShareInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WuYa/!svn/ver/165/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl/ShareInfoServiceImpl.java
+END
+PermissionInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/WuYa/!svn/ver/181/trunk/code/StudentWeb/src/main/java/com/wuya/backend/service/impl/PermissionInfoServiceImpl.java
+END

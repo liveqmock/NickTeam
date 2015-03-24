@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/WuYa/!svn/ver/191/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao
+END
+IUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/WuYa/!svn/ver/145/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao/IUserDao.java
+END
+IShareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WuYa/!svn/ver/165/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao/IShareDao.java
+END
+IPermissionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/WuYa/!svn/ver/181/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao/IPermissionDao.java
+END
+IProjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/WuYa/!svn/ver/176/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao/IProjectDao.java
+END
+IFinanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/WuYa/!svn/ver/105/trunk/code/StudentWeb/src/main/java/com/wuya/backend/dao/IFinanceDao.java
+END

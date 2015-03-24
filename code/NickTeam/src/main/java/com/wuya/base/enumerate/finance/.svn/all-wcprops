@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WuYa/!svn/ver/151/trunk/code/StudentWeb/src/main/java/com/wuya/base/enumerate/finance
+END
+FinanceAccountDetailTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/WuYa/!svn/ver/151/trunk/code/StudentWeb/src/main/java/com/wuya/base/enumerate/finance/FinanceAccountDetailTypeEnum.java
+END
+FinanceAccountMoneyTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/WuYa/!svn/ver/99/trunk/code/StudentWeb/src/main/java/com/wuya/base/enumerate/finance/FinanceAccountMoneyTypeEnum.java
+END
+FinanceAccountDetailStatusEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/WuYa/!svn/ver/121/trunk/code/StudentWeb/src/main/java/com/wuya/base/enumerate/finance/FinanceAccountDetailStatusEnum.java
+END

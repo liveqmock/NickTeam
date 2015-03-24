@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/WuYa/!svn/ver/191/trunk/code/StudentWeb/src/main/resources
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/WuYa/!svn/ver/191/trunk/code/StudentWeb/src/main/resources/jdbc.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/WuYa/!svn/ver/22/trunk/code/StudentWeb/src/main/resources/log4j.properties
+END
+spring.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/WuYa/!svn/ver/22/trunk/code/StudentWeb/src/main/resources/spring.cfg.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/WuYa/!svn/ver/104/trunk/code/StudentWeb/src/main/resources/struts.xml
+END
