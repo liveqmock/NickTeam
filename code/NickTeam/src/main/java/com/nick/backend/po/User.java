@@ -10,6 +10,7 @@ import javax.persistence.TemporalType;
 
 import com.nick.base.inter.IValidateable;
 import com.nick.base.po.BasePo;
+import com.nick.base.util.StringUtil;
 
 /**
  * [用户-实体类]
@@ -182,8 +183,12 @@ public class User extends BasePo implements IValidateable {
 	 * [自我检测方法实现]
 	 */
 	public boolean validate() {
-		// TODO Auto-generated method stub
-		return false;
+		if (StringUtil.isEmpty(this.password) || StringUtil.isEmpty(this.type)
+				|| StringUtil.isEmpty(this.domain)) {
+			return false;
+		} else {
+			return true;
+		}
 	}
 
 }
